@@ -19,7 +19,7 @@ print("Welcome to WHEN THE FUCK DOES " + website + " GO BACK ONLINE?")
 HOST = 'tuohostsmtp'
 USER = 'tuamail'
 PSW = 'password'
-TARGET = 'merutochan@gmail.com'
+TARGET = 'tuamail'
 
 minute = time.localtime(4)
 
