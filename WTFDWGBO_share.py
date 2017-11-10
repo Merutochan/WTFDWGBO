@@ -21,8 +21,6 @@ USER = 'tuamail'
 PSW = 'password'
 TARGET = 'tuamail'
 
-minute = time.localtime(4)
-
 while 1:
 	ping = os.system("ping -c 1 " + website)
 	if (ping==0):
