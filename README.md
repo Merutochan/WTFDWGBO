@@ -1,4 +1,4 @@
-# WTFDWGBO
+# WTFDWGBO (When The Fuck Does [Website] Go Back Online?)
 A small script that repetitively pings a server in order to find out when it goes back online.
 
 # How to use it
