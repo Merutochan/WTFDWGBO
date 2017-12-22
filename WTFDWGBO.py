@@ -10,6 +10,7 @@ if len(sys.argv) != 3:
 	print("Missing or exceeding arguments!")
 	print("Please use " + sys.argv[0] + "www.WEBSITE.com TIME_IN_SEC")
 	print()
+	exit()
 
 website = sys.argv[1]
 t = int(sys.argv[2])
